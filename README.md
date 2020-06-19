@@ -1,2 +1,6 @@
 # My-Yellow-Notepad
-## A Notepad made using HTML, CSS and JS that takes user input, creates notes and has a deleting option too.
+## A Notepad made using HTML, CSS and JS.
+-Takes user input
+-creates small notes
+-store them in browsers local storage
+-delete notes made
