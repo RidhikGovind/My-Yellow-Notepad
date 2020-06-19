@@ -5,3 +5,5 @@
 -
 -create and save note in local storage
 -
+-delete notes
+-
