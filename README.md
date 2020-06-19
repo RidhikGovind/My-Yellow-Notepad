@@ -3,3 +3,5 @@
 
 -takes user input 
 -
+-create and save note in local storage
+-
