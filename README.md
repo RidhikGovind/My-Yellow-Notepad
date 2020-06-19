@@ -3,9 +3,8 @@
 
 
 *takes user input
--takes user input 
--
--create and save note in local storage
--
--delete notes
--
+
+*create and save note in local storage
+
+*delete notes
+
