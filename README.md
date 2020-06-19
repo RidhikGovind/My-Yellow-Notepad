@@ -8,4 +8,4 @@
 
 *delete notes
 
-![Screenshot of the browser page](/images/notepad.png)
+
