@@ -1,7 +1,7 @@
 # My-Yellow-Notepad
 ## A Notepad made using HTML, CSS and JS.
 
-https://ridhikgovind.netlify.app 
+https://yellow-notepad.netlify.app 
 
 
 
